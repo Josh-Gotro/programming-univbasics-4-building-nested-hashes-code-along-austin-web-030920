@@ -1,5 +1,3 @@
-require 'pry'
-
 ef bonus
   epic_tragedy = {
    :montague => {
